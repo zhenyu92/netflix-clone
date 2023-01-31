@@ -21,7 +21,7 @@ export const fetchToken = async () => {
       window.location.href = `https://www.themoviedb.org/authenticate/${token}?redirect_to=${window.location.origin}/approved`;
     }
   } catch (error) {
-    console.log("Sorry, your token could not be created.");
+    // console.log("Sorry, your token could not be created.");
   }
 };
 
@@ -39,7 +39,7 @@ export const createSessionId = async () => {
 
       return session_id;
     } catch (error) {
-      console.log(error);
+      // console.log(error);
     }
   }
 };
