@@ -1,5 +1,5 @@
 ## ReactJS based Web Application for an Netflix Clone App
-This is a code repository of a React.js based web app for an Netflix clone app with modern UI/UX design using Material-UI. This application is deployed and currently hosted [here](https://netflix-cloning.netlify.app/).
+This is a code repository of a React.js based web app for an Netflix clone app with modern UI/UX design using Material-UI. This application is deployed and currently hosted [here](https://faked-netflix.netlify.app/).
 
 ### Key Stacks
 1. Advance React
